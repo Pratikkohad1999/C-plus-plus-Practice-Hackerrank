@@ -6,7 +6,8 @@
 #include <cassert>
 using namespace std;
 
-// Write your Student class here
+// Write your Student class here 
+// Student Class starts here
 class Student{
     private:int s[5];
     public:int ans=0;
