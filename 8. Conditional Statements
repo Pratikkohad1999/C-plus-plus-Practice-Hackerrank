@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 
 using namespace std;
-
+// Program starts
 int main()
 {
     int apple;
@@ -18,3 +18,5 @@ int main()
     }
     return 0;
 }
+// Program ends
+
