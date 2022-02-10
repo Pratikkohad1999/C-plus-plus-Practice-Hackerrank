@@ -10,7 +10,7 @@ int main() {
 		double A; cin >> A;
 		double B; cin >> B;
 		double C; cin >> C;
-
+// start of the code 
 		/* Enter your code here */
         // Display as exponent, uppercase, 9 decimal places 
         
@@ -39,5 +39,5 @@ int main() {
   	return 0;
 
 }
-
+// C++ problem Easy
 // end of the code
