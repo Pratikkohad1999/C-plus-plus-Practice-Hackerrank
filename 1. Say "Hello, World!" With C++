@@ -1,6 +1,7 @@
 #include <iostream>
 #include <cstdio>
 using namespace std;
+// start of the code 
 
 int main() {
     printf("Hello, World!");
