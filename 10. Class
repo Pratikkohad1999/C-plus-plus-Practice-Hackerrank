@@ -6,6 +6,8 @@ using namespace std;
 Enter code for class Student here.
 Read statement for specification.
 */
+// start of the code 
+
 class Student {
     private:
         string first_name;
