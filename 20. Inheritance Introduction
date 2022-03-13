@@ -6,7 +6,7 @@
 using namespace std;
 
 // start of the code
-
+// START
 class Triangle{
     public:
     	void triangle(){
