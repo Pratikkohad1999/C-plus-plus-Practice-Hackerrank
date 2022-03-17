@@ -5,7 +5,8 @@
 #include <algorithm>
 using namespace std;
 
-
+// C++ Problem Easy
+// start of the code
 int main() {
     /* Enter your code here. Read input from STDIN. Print output to STDOUT */  
  
